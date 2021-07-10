@@ -1,2 +1,2 @@
 # LGMVIP-WebDev
-LEt's grow more web dev intern tasks
+Let's grow more web dev intern tasks
